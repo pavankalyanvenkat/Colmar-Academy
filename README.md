@@ -1,1 +1,5 @@
-# Colmar-Academy
+<h1 align="center">Hi 👋, I'm Colmar-Academy</h1>
+<h3 align="center">This project was completed as part of Codecademy's Build a Website with HTML, CSS, and Github Pages Path. This was the learn how to build websites capstone project, in which we applied everything we had learned to build a responsive site from scratch. We were required to create a landing page for a new school, Colmar Academy. We were provided with wireframes and video and images resources, and instructed to make all remaining design decisions to complete the site. Responsive design techniques and media queries were utilized to create desktop and mobile versions of the web page.</h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
